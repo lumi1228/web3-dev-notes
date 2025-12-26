@@ -1,1 +1,1 @@
-# Web3_Basics
+# web3-dev-notes

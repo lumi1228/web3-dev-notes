@@ -1,0 +1,16 @@
+{
+    "description": "Friendly OpenSea Creature that enjoys long swims in the ocean.",
+    "external_url": "https://openseacreatures.io/3",
+    "image": "ipfs://QmPcbodxYg5ii3B1s2CadnL7WkrWdbiTdkwXGgdBLZzj8b",
+    "name": "Larvva Lad",
+    "attributes": [{
+        "trait_type": "Background",
+        "value": "Yellow"
+    }, {
+        "trait_type": "Eye",
+        "value": "Short"
+    }, {
+        "trait_type": "Mouth",
+        "value": "Big"
+    }]
+}
